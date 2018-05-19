@@ -4,3 +4,9 @@ version = "0.1.0"
 authors = ["Oleksii Filonenko <brightone@protonmail.com>"]
 
 [dependencies]
+dotenv = "0.12.0"
+reqwest = "0.8.5"
+error-chain = "0.4.2"
+serde = "1.0.55"
+serde_derive = "1.0.55"
+serde_yaml = "0.7.4"
