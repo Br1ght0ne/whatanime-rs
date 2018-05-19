@@ -1,0 +1,6 @@
+[package]
+name = "whatanime"
+version = "0.1.0"
+authors = ["Oleksii Filonenko <brightone@protonmail.com>"]
+
+[dependencies]
